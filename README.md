@@ -58,7 +58,7 @@ air_instruments/
 
 python -m venv venv
 venv\Scripts\activate     # (on Windows)
-# OR
+or
 source venv/bin/activate  # (on macOS/Linux)
 
 3. **Install Required Libraries**
