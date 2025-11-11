@@ -31,7 +31,6 @@ When you run AirBeats, your webcam turns into a virtual music board:
 ## 🗂️ Folder Structure
 
 air_instruments/
-│
 ├── main.py
 └── assets/
 ├── sounds/
@@ -39,7 +38,6 @@ air_instruments/
 │ ├── tabla.wav
 │ ├── guitar.wav
 │ └── piano.wav
-│
 └── icons/
 ├── drum.png
 ├── tabla.png
