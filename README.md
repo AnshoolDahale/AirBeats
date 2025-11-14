@@ -51,7 +51,7 @@ air_instruments/
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/<your-username>/AirBeats.git
+   git clone https://github.com/AnshoolDahale/AirBeats.git
    cd AirBeats
 
 2. **Create a Virtual Environment**
